@@ -1,4 +1,4 @@
-# Spring Boot 3.0 Banc Abc Payroll System
+# Spring Boot 3.0 Calculator App
 This project demonstrates the implementation of the Calculator App.
 
 ## Features
